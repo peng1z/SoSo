@@ -50,6 +50,13 @@ The app uses the following dependencies:
 5. The app will display the generated image above the selection area.
 6. Save the avatar to your photo library if desired.
 
+## Future Development
+- Add user login and registration functionality to store all avatars generated in this app.
+- Allows linking profiles from other social media such as Instagram, Facebook, and LinkedIn to your account.
+- Share your account's QR code with others and make friends with them.
+- Search usernames to find the ones you're interested in.
+- Use this app to find people nearby and connect them to your network.
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
