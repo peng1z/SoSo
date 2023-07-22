@@ -39,7 +39,7 @@ To run the app locally on your iOS device or simulator, follow these steps:
 The app uses the following dependencies:
 
 - SwiftUI: for building the user interface.
-- OpenAI API: for generating custom avatars based on user input.
+- OpenAI API: for generating custom avatars based on user input. Thanks [MarcoDotIO](https://github.com/MarcoDotIO/OpenAIKit) for the OpenAIKit.
 
 ## How to Use
 
